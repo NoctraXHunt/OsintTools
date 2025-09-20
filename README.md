@@ -5,7 +5,7 @@
 # NoctOsint🔎
 
 **NoctOsint** is a compact and polished Python terminal tool for educational OSINT tasks.  
-The tool combines phone number lookup, username availability checks, NIK lookup via API, and IP tracking — all presented with a clean ASCII banner and colored terminal output.
+The tool combines phone number lookup, username availability checks, NIK lookup, and IP tracking
 
 ---
 
