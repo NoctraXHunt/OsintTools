@@ -1,6 +1,8 @@
 # Support Developer
-**Channel: t.me/noctrashop**
-**Tele: t.me/XNoctra**
+
+- **Channel: t.me/noctrashop**
+
+- **Tele: t.me/XNoctra**
 
 # NoctOsint🔎
 
