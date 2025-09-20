@@ -38,8 +38,8 @@ The tool combines phone number lookup, username availability checks, NIK lookup,
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/NoctraXHunt/OsintTools
+cd OsintTools
 ```
 
 2. Install dependencies:
