@@ -1,3 +1,7 @@
+# Support Developer
+**Channel: t.me/noctrashop**
+**Tele: t.me/XNoctra**
+
 # NoctOsint🔎
 
 **NoctOsint** is a compact and polished Python terminal tool for educational OSINT tasks.  
