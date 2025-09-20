@@ -1,29 +1,27 @@
-# OSINT Toolz 🔎
+# NoctOsint🔎
 
-OSINT Toolz is a compact and polished Python terminal tool for educational OSINT tasks.  
+**NoctOsint** is a compact and polished Python terminal tool for educational OSINT tasks.  
 The tool combines phone number lookup, username availability checks, NIK lookup via API, and IP tracking — all presented with a clean ASCII banner and colored terminal output.
 
 ---
 
-## Features
+## 📌Features
 
-- **Phone Info**
+- **📞Phone Info**
   - Supports local Indonesian format (e.g. `08xxxx` → auto normalizes to `+62...`)
   - Shows international format, location hint, carrier/provider, timezone
 
-- **Username Checker**
+- **👥Username Checker**
   - Checks across: Instagram, Twitter (X), TikTok, GitHub, Facebook, Reddit, YouTube
 
-- **NIK Checker**
+- **💳NIK Checker**
   - Calls NIK API and displays clean, formatted output
-  - Ignores internal fields like `creator` and `status`, shows only relevant result fields
-  - Includes extra info: age, zodiac, pasaran (if provided by API)
 
-- **IP Tracker**
+- **🌐IP Tracker**
   - Accepts IP or domain (resolves domain to IP)
   - Uses public geolocation API to return country, region, city, ISP, timezone
 
-- **UI**
+- **🧑‍💻UI**
   - Fixed ASCII banner (pyfiglet `slant`)
   - Colored terminal output with `rich`
   - Menu driven, auto-clear screen on actions
@@ -50,29 +48,7 @@ python main.py
 
 ---
 
-## Files in this repo
-
-- `main.py` – main script (OSINT Tool)
-- `requirements.txt` – python dependencies
-- `README.md` – this file
-- `assets/` – preview images for README/GitHub
-
----
-
-## Screenshots / Preview Images
-
-Included in `assets/`:
-1. `banner.png` — ASCII banner preview
-2. `menu.png` — Main menu screenshot mockup
-3. `phone_lookup.png` — Phone lookup sample output
-4. `nik_lookup.png` — NIK lookup sample output
-5. `ip_tracker.png` — IP tracker sample output
-
-Use these images in your GitHub repo's README to showcase the tool.
-
----
-
-## Notes & Legal
+## ⚠️ Notes & Legal
 
 - This tool is intended for **educational** and **research** purposes only.
 - Do **not** use the tool to process or expose real personal data without proper authorization.
