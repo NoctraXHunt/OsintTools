@@ -59,7 +59,3 @@ python main.py
 - NIK and other personal data are sensitive — use synthetic or permitted datasets only.
 
 ---
-
-## License
-
-MIT
